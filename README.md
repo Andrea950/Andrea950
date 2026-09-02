@@ -1,4 +1,4 @@
-## Hi there, I am Andrea Nonne 👋
+# Welcome, I am Andrea Nonne 👋
 
 I'm a Management Engineering graduate from **Politecnico di Milano**, where I developed a strong interest in **Data Analysis** and **Data Science**.
 This GitHub is where I share some of the projects I've enjoyed working on the most — feel free to take a look around!
@@ -10,12 +10,12 @@ This GitHub is where I share some of the projects I've enjoyed working on the mo
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-# A bit about me
+## A bit about me
 
 - I love sports, and I am currently training for a half marathon
 - I am such a big fan of competitive Trading Card Games
 
-# Let's connect
+## Let's connect
 Feel free to reach out or simply explore my repositories. You can also reach me on LinkedIn!
 
 <!--
