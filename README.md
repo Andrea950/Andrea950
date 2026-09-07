@@ -1,10 +1,13 @@
 # Hi there, I am Andrea Nonne!
 
+<img src="https://github.com/Andrea950.png" width="160" align="left" style="margin-right: 20px" />
+
 I'm a Management Engineering graduate from **Politecnico di Milano**, specialized in **Analytics for Business**. Along the way, I gained hands-on experience across marketing analytics and industrial production contexts, building statistical models to turn data into actionable insights for real business problems.
 
 That experience left me hooked on Data Analysis and Data Science — enough to want to build a career around it. This GitHub is my showcase for the projects I've found most exciting along the way.
 
-<img src="https://github.com/Andrea950.png" width="150" />
+<br clear="left"/>
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
