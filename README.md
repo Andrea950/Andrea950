@@ -1,34 +1,41 @@
-# Welcome, I am Andrea Nonne 👋
+# Hi there, I am Andrea Nonne!
 
-I'm a Management Engineering graduate from **Politecnico di Milano**, where I developed a strong interest in **Data Analysis** and **Data Science**.
-This GitHub is where I share some of the projects I've enjoyed working on the most — feel free to take a look around!
+I'm a Management Engineering graduate from **Politecnico di Milano**, specialized in **Analytics for Business**. Along the way, I gained hands-on experience across marketing analytics and industrial production contexts, building statistical models to turn data into actionable insights for real business problems.
+
+That experience left me hooked on Data Analysis and Data Science — enough to want to build a career around it. This GitHub is my showcase for the projects I've found most exciting along the way.
+
+<img src="https://github.com/Andrea950.png" width="150" />
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-## A bit about me
-
-- I love sports, and I am currently training for a half marathon
-- I am such a big fan of competitive Trading Card Games
-
-## Let's connect
-Feel free to reach out or simply explore my repositories. You can also reach me on LinkedIn!
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Statistics](https://img.shields.io/badge/-Statistics-5D3FD3?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00A67E?style=flat-square)
+![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-FF4088?style=flat-square)
+![SPC](https://img.shields.io/badge/-SPC-EA4335?style=flat-square)
 
 <!--
-**Andrea950/Andrea950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<table>
+<tr>
+<td><a href="https://github.com/tuo-username/Netflix_sql"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tuo-username&repo=Netflix_sql&theme=default" /></a></td>
+<td><a href="https://github.com/tuo-username/anomalies_detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tuo-username&repo=anomalies_detection&theme=default" /></a></td>
+<td><a href="https://github.com/tuo-username/churn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tuo-username&repo=churn&theme=default" /></a></td>
+</tr>
+</table>
 -->
+
+## Curiosities about me
+
+Beyond work and my interest in data-related topics, I keep a few things going in my free time. I'm an outdoor sports enthusiast currently **training for a half marathon**, and a bit of a **classic film buff** — my phone has a running watch-list organized by decade. I'm also a **longtime Trading Card Game fan**, which has been a great way to rediscover the fun of healthy competition.
+
+## Let's connect
+Feel free to reach out or simply explore my repositories. You can also reach me on [LinkedIn](www.linkedin.com/in/andrea-nonne-767951214)!
