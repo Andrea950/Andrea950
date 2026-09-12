@@ -1,6 +1,6 @@
 # Hi there, I am Andrea Nonne!
 
-<img src="https://github.com/Andrea950.png" width="160" align="left" style="margin-right: 20px" />
+<img src="https://github.com/Andrea950.png" width="170" align="left" style="margin-right: 20px" />
 
 I'm a Management Engineering graduate from **Politecnico di Milano**, specialized in **Analytics for Business**. Along the way, I gained hands-on experience across marketing analytics and industrial production contexts, building statistical models to turn data into actionable insights for real business problems.
 
